@@ -1,2 +1,2 @@
-# Actividades de redes
+# Gestión/Administración de base de datos
 
