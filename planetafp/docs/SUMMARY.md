@@ -2,8 +2,8 @@
 
 ## Planificacion i administracion de redes
 
-* [Introduccion a redes](README.md)
-  * [Elementos de Clasificacion](planificacion-i-administracion-de-redes/introduccion-a-redes/elementos-de-clasificacion.md)
+* [Elementos de Clasificacion](README.md)
+* [Introduccion a redes](<README (1).md>)
   * [Actividades de redes](planificacion-i-administracion-de-redes/introduccion-a-redes/actividades-de-redes/README.md)
     * [Primera actividad redes](planificacion-i-administracion-de-redes/introduccion-a-redes/actividades-de-redes/primera-actividad-redes/README.md)
       * [Creación de cuenta de Gitbook](planificacion-i-administracion-de-redes/introduccion-a-redes/actividades-de-redes/primera-actividad-redes/creacion-de-cuenta-de-gitbook.md)
