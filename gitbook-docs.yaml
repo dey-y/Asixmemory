@@ -5,7 +5,7 @@ site:
     - type: section-group
       key: section-group-1
       title: Workspace
-      icon: freebsd
+      icon: gitbook
       children:
         - type: section
           key: section-1
