@@ -23,32 +23,3 @@ site:
               content:
                 directory: ./planetafp/docs
                 language: es
-        - type: section
-          key: section-2
-          title: Implantació de sistemes operatius
-          path: implantacio-de-sistemes-operatius
-          description: ""
-          icon: ubuntu
-          children:
-            - type: space
-              key: space-2
-              title: Implantació de sistemes operatius
-              path: implantacio-de-sistemes-operatius
-              default: true
-              draft: true
-              content:
-                directory: ./implantacio-de-sistemes-operatius
-        - type: section
-          key: section-3
-          title: Fonaments de Maquinari
-          path: fonaments-de-maquinari
-          icon: computer
-          children:
-            - type: space
-              key: space-3
-              title: Fonaments de Maquinari
-              path: fonaments-de-maquinari
-              default: true
-              draft: true
-              content:
-                directory: ./fonaments-de-maquinari
