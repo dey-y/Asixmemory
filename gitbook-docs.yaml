@@ -9,15 +9,15 @@ site:
       children:
         - type: section
           key: section-1
-          title: Planificacion i administracion de redes
+          title: PlanetaFP
           path: planetafp
           description: ""
-          icon: signal-stream
+          icon: book-bookmark
           default: true
           children:
             - type: space
               key: space-1
-              title: Planificacion i administracion de redes
+              title: PlanetaFP
               path: docs
               default: true
               content:
