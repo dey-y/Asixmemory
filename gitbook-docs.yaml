@@ -4,8 +4,8 @@ site:
   structure:
     - type: section-group
       key: section-group-1
-      title: PlanetaFp
-      icon: book-bookmark
+      title: Workspace
+      icon: freebsd
       children:
         - type: section
           key: section-1
