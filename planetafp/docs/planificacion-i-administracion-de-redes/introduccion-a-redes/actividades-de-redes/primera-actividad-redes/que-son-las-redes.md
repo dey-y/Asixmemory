@@ -36,7 +36,7 @@ Una red es un conjunto de dispositivos conectados entre sí para compartir infor
 * Los trabajadores pueden compartir archivos en una empresa.
 
 Las conexiones pueden realizarse mediante cables, fibra óptica o señales inalámbricas, como el Wi‑Fi. \
-**Fuente:** [https://ed.team/blog/que-son-las-redes-y-como-funciona-internet](https://www.ibm.com/es-es/think/topics/networking)<br>
+**Fuente:** [https://ed.team/blog/que-son-las-redes-y-como-funciona-internet](https://www.ibm.com/es-es/think/topics/networking)
 
 ### **¿Cuál es su importancia?**
 
