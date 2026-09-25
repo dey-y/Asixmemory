@@ -1,13 +1,36 @@
 # Qué es la informática en la nube
 
-La informática en la nube es la prestación de servicios informáticos a través de Internet. Los servicios informáticos incluyen infraestructura de TI común, como máquinas virtuales, almacenamiento, bases de datos y redes.&#x20;
+### Informática en la nube <a href="#informtica-en-la-nube" id="informtica-en-la-nube"></a>
 
-Dado que la informática en la nube usa Internet para ofrecer estos servicios, no es necesario que la infraestructura física la restrinja del mismo modo que un centro de datos tradicional. Esto significa que si necesita aumentar rápidamente la infraestructura de TI, no tiene que esperar a crear un centro de datos, sino que puede usar la nube para expandir rápidamente la superficie de TI.
+La informática en la nube es la prestación de servicios informáticos a través de Internet. Estos servicios incluyen recursos habituales de tecnología informática, como:
 
-### Ejemplo práctico <a href="#practical-example" id="practical-example"></a>
+{% columns %}
+{% column %}
+* Máquinas virtuales.
+* Almacenamiento.
+{% endcolumn %}
 
-Supongamos que un equipo minorista espera un tráfico elevado durante un lanzamiento estacional. En lugar de comprar y configurar servidores físicos adicionales con antelación, pueden implementar capacidad de cómputo adicional en la nube para el período de lanzamiento y reducirla después. Este enfoque mejora la agilidad y ayuda a alinear el gasto con la demanda real.
+{% column %}
+Bases de datos.
 
-En un nivel fundamental, la informática en la nube cambia la planificación de la infraestructura de largos ciclos de adquisición a aprovisionamiento a petición. Los equipos pueden probar más rápido, recuperarse más rápido y adaptar la capacidad a medida que cambian los requisitos.
+Redes.
+{% endcolumn %}
+{% endcolumns %}
 
-Las plataformas en la nube también ofrecen alcance global, por lo que los equipos pueden colocar servicios más cerca de los usuarios y diseñar la resistencia regional sin crear varios centros de datos físicos.
+Dado que la nube utiliza Internet para ofrecer estos servicios, la infraestructura no está limitada por las restricciones físicas de un centro de datos tradicional. Por ello, si es necesario aumentar rápidamente la infraestructura de TI, no hay que esperar a crear un centro de datos, ya que la nube permite ampliar rápidamente la capacidad. **Esto permite:**
+
+{% columns %}
+{% column %}
+* Aumentar la infraestructura con rapidez.
+* Adaptar la capacidad a las necesidades reales.
+{% endcolumn %}
+
+{% column %}
+* Probar servicios más rápidamente.
+* Recuperarse antes de posibles problemas.
+{% endcolumn %}
+{% endcolumns %}
+
+La informática en la nube cambia la planificación de la infraestructura, ya que sustituye los largos ciclos de adquisición por el aprovisionamiento bajo demanda. De este modo, los equipos pueden probar y recuperarse más rápidamente, además de adaptar la capacidad a medida que cambian los requisitos.
+
+Las plataformas en la nube también ofrecen alcance global. Esto permite colocar los servicios más cerca de los usuarios y diseñar sistemas resistentes a fallos regionales sin tener que crear varios centros de datos físicos.
