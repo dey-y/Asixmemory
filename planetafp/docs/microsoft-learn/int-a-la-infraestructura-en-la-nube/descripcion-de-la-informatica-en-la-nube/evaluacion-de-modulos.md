@@ -24,5 +24,5 @@ description: Elija la respuesta más adecuada para cada pregunta.
 * [ ] Software como servicio (SaaS)
 * [ ] Plataforma como servicio (PaaS)
 
-<figure><img src="../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
 

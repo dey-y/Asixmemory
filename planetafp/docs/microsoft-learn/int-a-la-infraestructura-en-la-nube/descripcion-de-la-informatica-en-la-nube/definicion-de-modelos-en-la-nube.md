@@ -2,7 +2,7 @@
 
 ¿Qué son los modelos en la nube? Los modelos en la nube definen el tipo de implementación de recursos en la nube. Los tres principales modelos en la nube son: privados, públicos e híbridos.
 
-<figure><img src="../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Nube privada <a href="#private-cloud" id="private-cloud"></a>
 

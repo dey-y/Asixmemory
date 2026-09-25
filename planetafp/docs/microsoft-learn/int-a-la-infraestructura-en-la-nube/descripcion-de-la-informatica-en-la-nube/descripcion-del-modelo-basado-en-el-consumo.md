@@ -13,7 +13,7 @@ El modelo basado en el consumo ofrece varias ventajas clave:
 
 ### Planeamiento de la capacidad: tradicional frente a la nube <a href="#capacity-planning-traditional-vs-cloud" id="capacity-planning-traditional-vs-cloud"></a>
 
-<figure><img src="../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Con un centro de datos tradicional, se calculan las necesidades futuras de recursos de antemano. Si sobrestimas, gastarás de más en infraestructura que permanecerá inactiva. Subestimar y las aplicaciones sufren un rendimiento degradado. Corregir el problema significa ordenar, instalar y aprovisionar hardware adicional, energía y refrigeración.
 

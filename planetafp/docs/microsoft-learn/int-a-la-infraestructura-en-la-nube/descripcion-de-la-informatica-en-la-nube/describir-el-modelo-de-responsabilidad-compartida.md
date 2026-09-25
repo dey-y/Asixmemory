@@ -18,7 +18,7 @@ Con un centro de datos en las instalaciones, usted es responsable de todo. Con l
 
 En el diagrama siguiente se resalta cómo el modelo de responsabilidad compartida informa a quién es responsable de qué, dependiendo del tipo de servicio en la nube.
 
-<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Lo que siempre permanece contigo <a href="#what-always-stays-with-you" id="what-always-stays-with-you"></a>
 

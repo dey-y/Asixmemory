@@ -8,4 +8,4 @@
   ![](../../../../.gitbook/assets/image.png)
 * Una vez personalizada  le di a "edit" que aparece dentro de content arriba a la derecha para empezar a documentar el proceso de la creacion de la cuenta de Gitbook.\
   \
-  ![](<../../../../.gitbook/assets/imagen (2).png>)
+  ![](<../../../../.gitbook/assets/imagen (2) (1).png>)

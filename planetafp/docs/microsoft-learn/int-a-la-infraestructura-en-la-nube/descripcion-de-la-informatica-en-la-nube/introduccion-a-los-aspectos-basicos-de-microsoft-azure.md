@@ -6,7 +6,7 @@ Los servicios de Azure admiten todo, desde simple a complejo. Puede hospedar ser
 
 En esta serie, se tratan los aspectos básicos de la informática en la nube, se presentan algunos de los servicios principales proporcionados por Microsoft Azure y se obtienen más información sobre los servicios de gobernanza y cumplimiento que puede usar.
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt="https://learn.microsoft.com/es-es/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (1).png" alt="https://learn.microsoft.com/es-es/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals"><figcaption></figcaption></figure>
 
 ## ¿Qué es Aspectos básicos de Azure? <a href="#what-is-azure-fundamentals" id="what-is-azure-fundamentals"></a>
 

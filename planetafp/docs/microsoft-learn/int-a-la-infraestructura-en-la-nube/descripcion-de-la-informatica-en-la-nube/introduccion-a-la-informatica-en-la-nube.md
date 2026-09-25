@@ -14,3 +14,4 @@ Después de completar este módulo, podrá:
 * Identificar los casos de uso adecuados para cada modelo de nube.
 * Describir el modelo basado en el consumo.
 * Comparar los modelos de precios en la nube.
+
