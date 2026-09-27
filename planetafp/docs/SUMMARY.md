@@ -1,13 +1,17 @@
 # Table of contents
 
+## Implantació de sistemes operatius
+
+* [Bloque 1: Reconocer la arquitectura de un sistema informatico](README.md)
+
 ## Planificacion i administracion de redes
 
-* [Elementos de Clasificacion](README.md)
-* [Introduccion a redes](<README (1).md>)
-  * [Actividades de redes](planificacion-i-administracion-de-redes/introduccion-a-redes/actividades-de-redes/README.md)
-    * [Primera actividad redes](planificacion-i-administracion-de-redes/introduccion-a-redes/actividades-de-redes/primera-actividad-redes/README.md)
-      * [Creación de cuenta de Gitbook](planificacion-i-administracion-de-redes/introduccion-a-redes/actividades-de-redes/primera-actividad-redes/creacion-de-cuenta-de-gitbook.md)
-      * [¿Qué son las redes?](planificacion-i-administracion-de-redes/introduccion-a-redes/actividades-de-redes/primera-actividad-redes/que-son-las-redes.md)
+* [Elementos de Clasificacion](<README (1).md>)
+* [Introduccion a las redes](planificacion-i-administracion-de-redes/introduccion-a-las-redes/README.md)
+  * [Primera actividad redes](planificacion-i-administracion-de-redes/introduccion-a-las-redes/primera-actividad-redes/README.md)
+    * [Creación de cuenta de Gitbook](planificacion-i-administracion-de-redes/introduccion-a-las-redes/primera-actividad-redes/creacion-de-cuenta-de-gitbook.md)
+    * [¿Qué son las redes?](planificacion-i-administracion-de-redes/introduccion-a-las-redes/primera-actividad-redes/que-son-las-redes.md)
+  * [Cableado de la red](planificacion-i-administracion-de-redes/introduccion-a-las-redes/cableado-de-la-red.md)
 
 ## Gestión/Administración de base de datos
 

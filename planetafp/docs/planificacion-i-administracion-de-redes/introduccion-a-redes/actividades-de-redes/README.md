@@ -1,2 +1,0 @@
-# Actividades de redes
-

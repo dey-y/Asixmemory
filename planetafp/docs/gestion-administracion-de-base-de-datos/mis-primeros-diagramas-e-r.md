@@ -18,14 +18,48 @@ Se debe tener en cuenta que un producto sólo puede ser suministrado por un prov
 
 ### Datos relevantes
 
-* Una empresa vende productos a varios clientes
-* Se necesita conocer los datos personales de los clientes (nombre, apellidos, dni, dirección y fecha de nacimiento)
-* Cada producto tiene un nombre y un código, así como un precio unitario
-* Un cliente puede comprar varios productos a la empresa
-* Un mismo producto puede ser comprado por varios clientes
-* Los productos son suministrados por diferentes proveedores.&#x20;
-* Un producto sólo puede ser suministrado por un proveedor
-* Un proveedor puede suministrar diferentes productos
+{% columns %}
+{% column %}
+1 - Una empresa vende productos a varios clientes
+
+3 - Cada producto tiene un nombre y un código, así como un precio unitario
+
+5 - Un mismo producto puede ser comprado por varios clientes
+
+7 - Los productos son suministrados por diferentes proveedores.&#x20;
+
+9 - Un proveedor puede suministrar diferentes productos
+{% endcolumn %}
+
+{% column %}
+2 - Se necesita conocer los datos personales de los clientes (nombre, apellidos, dni, dirección y fecha de nacimiento)
+
+4 - Un cliente puede comprar varios productos a la empresa
+
+6 - Un mismo producto puede ser comprado por varios clientes
+
+8 - Un producto sólo puede ser suministrado por un proveedor
+{% endcolumn %}
+{% endcolumns %}
+
+### Diagrama
+
+<figure><img src="../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+
+* **Problemas encontrados durante el proceso:**\
+  Confusiones sobre si "Empresa" deberia de ser una identidad porque al ser una empresa la que vende los productos parecia logico incluirla como entidad en el diagrama pero en el enunciado solo menciona que "la empresa vende productos a varios clientes", pero no pide en ningún momento guardar datos suyos como nombre, dirección o NIF de la empresa, etc.\
+  Además, si se añadiera "Empresa" como entidad relacionada con "Producto", la relación sería de uno a muchos porque una empresa tiene muchos productos, lo que obligaría a incluir una clave foránea de empresa en cada producto. \
+  Como solo existe una única empresa, ese valor sería exactamente el mismo en todas las filas de la tabla "Producto" es decir, se duplicaría innecesariamente el mismo dato en cada producto.
+* **Si la relacion de empresa a provedores fuese de n:m:**\
+  Si la relacion de empresa a provedores fuese de n:m requeriria de convertir Empresa en una entidad propia, con su propio identificador y atributos ya que al haber varias empresas, cada una necesita datos que las diferencien.
+
+<figure><img src="../.gitbook/assets/imagen (23).png" alt=""><figcaption></figcaption></figure>
+
+Asi me quedo el diagrama al principio pero luego pense, "no necesitaria una cf de productos para empresas?" porque si no, empresa que "vende" a los clientes y me di cuenta de que se trataba de una relacion ternaria, podia relacionar "Productos" con "Clientes" porque los "clientes son los que compran los productos pero las empresas los venden. Entonces el diagrama quedaria tal que asi.
+
+<figure><img src="../.gitbook/assets/imagen (24).png" alt=""><figcaption></figcaption></figure>
+
+Pero este diagrama no importa porque el enunciado solo menciona una empresa asi que todo a la mrd.
 
 ## **EJERCICIO 2**
 
