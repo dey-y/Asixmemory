@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Ipo](README.md)
+
 ## Implantació de sistemes operatius
 
-* [Bloque 1: Reconocer la arquitectura de un sistema informatico](README.md)
+* [Bloque 1: Reconocer la arquitectura de un sistema informatico](<README (2).md>)
 
 ## Planificacion i administracion de redes
 

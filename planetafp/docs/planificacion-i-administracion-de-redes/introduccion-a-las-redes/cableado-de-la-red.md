@@ -85,7 +85,7 @@ Gracias a estos principios, la fibra puede transmitir datos a gran velocidad, a 
 
 <table data-search="false"><thead><tr><th>Limitaciones principales</th></tr></thead><tbody><tr><td><strong>Coste inicial más alto:</strong> los cables, transceptores ópticos, conectores y equipos de medición suelen costar más que los equivalentes de cobre.</td></tr><tr><td><strong>Instalación especializada:</strong> para conectar o reparar fibras se necesitan herramientas como fusionadora, cortadora de precisión y medidor de potencia u OTDR. También hace falta personal formado.</td></tr><tr><td><strong>Fragilidad y curvaturas:</strong> la fibra puede dañarse si se dobla demasiado, se estira o se aplasta. Hay que respetar el radio de curvatura y evitar tensiones durante el tendido.</td></tr><tr><td><strong>Limpieza de conectores:</strong> el polvo, grasa o arañazos en conectores y adaptadores puede causar atenuación y errores de comunicación. Por eso deben limpiarse e inspeccionarse antes de conectarlos.</td></tr><tr><td><strong>Diagnóstico más complejo:</strong> localizar una rotura, una mala fusión o una pérdida de potencia requiere instrumentos específicos; no basta con comprobar continuidad como en un cable de cobre.</td></tr><tr><td><strong>No transporta energía:</strong> la fibra solo transmite datos. A diferencia del cobre, no permite alimentar dispositivos mediante PoE, por lo que cámaras, puntos de acceso o teléfonos IP necesitan una fuente eléctrica aparte.</td></tr><tr><td><strong>Planificación necesaria:</strong> es recomendable instalar fibras de reserva porque ampliar el cableado después puede requerir obras o nuevos tendidos. En backbone se aconseja usar cables con más fibras de las necesarias para disponer de reserva ante fallos o futuras ampliaciones.</td></tr></tbody></table>
 
-### Conclusión <a href="#conclusin" id="conclusin"></a>
+#### Conclusión <a href="#conclusin" id="conclusin"></a>
 
 La fibra es ideal para backbone, altas velocidades y largas distancias, pero requiere una instalación más cuidadosa, materiales específicos y un mantenimiento técnico más especializado que el cobre.
 
@@ -110,15 +110,9 @@ El cableado troncal puede instalarse con cobre (UTP/STP) o con fibra óptica. La
 | Coste inicial         | Más económico y fácil de instalar                     | Más caro y requiere herramientas y personal especializado       |
 | Alimentación PoE      | Sí, puede transportar datos y energía                 | No, solo transmite datos                                        |
 
-* Revisa la webgrafía que te adjunto y explica la estructura del cableado estructurado atendiendo a:
+#### Revisa la webgrafía que te adjunto y explica la estructura del cableado estructurado atendiendo a:
 
-1. cableado vertical
-2. sala central de equipamiento
-3. armario de telecomunicaciones
-4. áreas de trabajo
-5. toma del edificio
-
-<table><thead><tr><th width="270.683349609375"></th><th></th></tr></thead><tbody><tr><td>Cableado vertical</td><td></td></tr><tr><td>Sala central de equipamiento</td><td></td></tr><tr><td>Armario de telecomunicaciones</td><td></td></tr><tr><td>Areas de trabajo</td><td></td></tr><tr><td>Toma del edificio</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="270.683349609375"></th><th></th></tr></thead><tbody><tr><td><strong>Cableado vertical</strong></td><td>Es la columna vertebral que une la sala central de equipamiento con los armarios de telecomunicaciones de cada planta, utilizando principalmente fibra óptica y, en algunos casos, cable multipar o UTP/STP.</td></tr><tr><td><strong>Sala central de equipamiento</strong></td><td>Es el espacio principal donde se concentran los equipos de red y los paneles de parcheo del cableado vertical. Desde ella salen los enlaces hacia las distintas plantas del edificio.</td></tr><tr><td><strong>Armario de telecomunicaciones</strong></td><td>Es el punto de distribución de cada planta o zona. Recibe el cableado vertical y reparte el cableado horizontal hacia las áreas de trabajo.</td></tr><tr><td><strong>Areas de trabajo</strong></td><td>Son los espacios donde los usuarios conectan sus dispositivos a la red mediante tomas de telecomunicaciones y latiguillos.</td></tr><tr><td><strong>Entrada de servicios del edificio</strong></td><td>Es el punto por el que llegan al edificio los servicios externos, como la fibra del operador. Desde allí se conectan con la sala central de equipamiento.</td></tr></tbody></table>
 
 ### Investiga herramientas de diseño de redes \[1p]
 
@@ -126,24 +120,46 @@ Investiga las diferentes herramientas existentes en el mercado para diseñar una
 
 Rellena la siguiente tabla con tres opciones:
 
-| Herramienta | Características | Gratis / Pago |
-| ----------- | --------------- | ------------- |
-| <p><br></p> | <p><br></p>     | <p><br></p>   |
-| <p><br></p> | <p><br></p>     | <p><br></p>   |
+<table><thead><tr><th width="108">Herramienta</th><th width="464">Caracteristicas</th><th>Gratis/Pago</th></tr></thead><tbody><tr><td>Cisco Packet Tracer<br></td><td>Permite crear topologías mediante elementos gráficos, configurar routers y switches y simular el envío de paquetes. Está orientado principalmente al aprendizaje de redes Cisco.</td><td>Gratis</td></tr><tr><td>GNS3</td><td>Programa de código abierto para diseñar y emular redes virtuales. Permite utilizar diferentes dispositivos, acceder a sus consolas y comprobar configuraciones y protocolos.</td><td>Gratis, pero algunas imágenes de sistemas requieren licencia.<br></td></tr><tr><td><br>Diagrams.net </td><td>Herramienta para crear diagramas de red mediante símbolos, conectores, texto y plantillas. Es útil para representar visualmente la distribución de routers, switches, servidores y conexiones.<br></td><td>Gratis</td></tr></tbody></table>
 
 ### Tu casa \[2p]
 
-1. Analiza e investiga la instalación de la red de tu casa.
-2. ¿Qué tipo de fibra llega a tu casa: monomodo o multimodo? Argumenta
-3. Especifica los tipos de cables que intervienen en la configuración
-4. ¿Qué tipo de router tienes? Las especificaciones del mismo.
+Analiza e investiga la instalación de la red de tu casa.
+
+#### ¿Qué tipo de fibra llega a tu casa: monomodo o multimodo? Argumenta
+
+El tipo de cable que llega a mi casa es ethernet ya que utiliza un conector RJ45 por lo tanto no puedo responder  a la pregunta.
+
+#### Especifica los tipos de cables que intervienen en la configuración
+
+los cables que intervienen en mi router es un cable ethernet RJ45 que conecta mi pc y el otro ethernet que trae el wifi a mi casa.
+
+#### ¿Qué tipo de router tienes? Las especificaciones del mismo.
+
+Tengo un router ZTE ZXHN H3600P proporcionado por DIGI. Es un router WI-FI 6 de doble banda, compatible con las frecuencias de 2,4 GHz y 5GHz, y alcanza una veloidad inalambrica teorica hasta 3000mbps. Dispone de un puerto WAN Gigabit y tres puertos LAN  Gigabit RJ45 para conectar dispositivos mediante cable ethernet
 
 ### Diseña \[1p]
 
 Selecciona una de las herramientas gratuitas anteriores y utilízala para diseñar las redes de casa y del aula. La red del aula no necesita tener los 36 equipos que tenemos. Argumenta tu decisión en el uso de esa herramienta en detrimento de las demás.
 
-1. Escribe la IP de un dispositivo de tu casa, por ejemplo, el móvil.
-2. ¿Qué topología se implementa en la red: bus, árbol, estrella...?&#x20;
-3. ¿Qué características tiene ese tipo de topología?
+#### Escribe la IP de un dispositivo de tu casa, por ejemplo, el móvil.
 
-<br>
+Dirección ip de mi pc 192.168.1.57
+
+#### ¿Qué topología se implementa en la red: bus, árbol, estrella...?&#x20;
+
+Topología estrella&#x20;
+
+#### ¿Qué características tiene ese tipo de topología?
+
+Las caracteristicas de la topologia en estrella es que todo los dispositivos se conectan a un unico punto, en mi caso todos mis dispositivos se conectan a mi router.
+
+Otra caracteristica es que cada equipo tiene su propia enlace al dispositivo central.
+
+Las ventajas son que si falla un cable la red sigue funcionando, son faciles de amplia y faciles de administrar y diagnosticar.
+
+Las desventajas son que si el dispositivo central (router) se cae se cae toda la red y el rendimiento de la red depende totalmente del dispositivo central.
+
+#### Diseño de la red de la casa
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
