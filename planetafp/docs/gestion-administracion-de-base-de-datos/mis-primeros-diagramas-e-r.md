@@ -128,4 +128,4 @@ Un médico puede atender varios ingresos, pero el ingreso de un paciente solo pu
 
 #### Diagrama
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
