@@ -93,11 +93,17 @@ La empresa dispone de una serie de coches para su venta. Se necesita conocer la 
 
 El concesionario también se encarga de llevar a cabo las revisiones que se realizan a cada coche. Cada revisión tiene asociado un código que se incrementa automáticamente por cada revisión que se haga. De cada revisión se desea saber si se ha hecho cambio de filtro, si se ha hecho cambio de aceite, si se ha hecho cambio de frenos u otros. Los coches pueden pasar varias revisiones en el concesionario”.
 
-#### Datos relevantes
+### Datos relevantes
 
 <table data-search="false"><thead><tr><th>Datos</th></tr></thead><tbody><tr><td>1 - La empresa dispone de una serie de coches para su venta.</td></tr><tr><td>2 - Se necesita conocer la matrícula, marca y modelo, el color y el precio de venta de cada coche</td></tr><tr><td>3 - Los datos que interesa conocer de cada cliente son el NIF, nombre, dirección, ciudad y número de teléfono</td></tr><tr><td>4 - los clientes se diferencian por un código interno de la empresa que se incrementa automáticamente cuando un cliente se da de alta en ella</td></tr><tr><td>5 - Un cliente puede comprar tantos coches como desee a la empresa</td></tr><tr><td>6 - Un coche determinado solo puede ser comprado por un único cliente.</td></tr><tr><td>7 - El concesionario también se encarga de llevar a cabo las revisiones que se realizan a cada coche. </td></tr><tr><td>8 - Cada revisión tiene asociado un código que se incrementa automáticamente por cada revisión que se haga</td></tr><tr><td>9 - De cada revisión se desea saber si se ha hecho cambio de filtro, si se ha hecho cambio de aceite, si se ha hecho cambio de frenos u otros</td></tr><tr><td>10 - Los coches pueden pasar varias revisiones en el concesionario”.</td></tr></tbody></table>
 
-##
+#### Diagrama
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+#### Problemas encontrados durante el proceso:
+
+Al principio, con tantos datos mezclados en el enunciado, tuve dudas sobre qué era entidad y qué era simplemente un atributo. Pensé que cosas como "cambio de filtro" o "cambio de aceite" podían ser entidades propias, cuando en realidad son solo atributos de la entidad Revisión.
 
 ## **EJERCICIO 5**
 
@@ -108,3 +114,18 @@ De cada paciente se desea guardar el código, nombre, apellidos, dirección, pob
 De cada médico se desea guardar el código, nombre, apellidos, teléfono y especialidad. Se desea llevar el control de cada uno de los ingresos que el paciente hace en el hospital. Cada ingreso que realiza el paciente queda registrado en la base de datos. De cada ingreso se guarda el código de ingreso (que se incrementará automáticamente cada vez que el paciente realice un ingreso), el número de habitación y cama en la que el paciente realiza el ingreso y la fecha de ingreso.
 
 Un médico puede atender varios ingresos, pero el ingreso de un paciente solo puede ser atendido por un único médico. Un paciente puede realizar varios ingresos en el hospital”.
+
+### Datos relevantes
+
+| Datos                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1 - De cada paciente se desea guardar el código, nombre, apellidos, dirección, población, provincia, código postal, teléfono y fecha de nacimiento.                                                                                  |
+| 2 - De cada médico se desea guardar el código, nombre, apellidos, teléfono y especialidad.                                                                                                                                           |
+| 3 - Se desea llevar el control de cada uno de los ingresos que el paciente hace en el hospital                                                                                                                                       |
+| 4 - Cada ingreso que realiza el paciente queda registrado en la base de datos.                                                                                                                                                       |
+| 5 - De cada ingreso se guarda el código de ingreso (que se incrementará automáticamente cada vez que el paciente realice un ingreso), el número de habitación y cama en la que el paciente realiza el ingreso y la fecha de ingreso. |
+| 6 - Un médico puede atender varios ingresos, pero el ingreso de un paciente solo puede ser atendido por un único médico. Un paciente puede realizar varios ingresos en el hospital”.                                                 |
+
+#### Diagrama
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
