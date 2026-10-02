@@ -4,7 +4,7 @@ La confiabilidad y la predicción son dos ventajas cruciales de la nube que le a
 
 ### Fiabilidad <a href="#reliability" id="reliability"></a>
 
-<figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
 La confiabilidad es la capacidad de un sistema para recuperarse de errores y seguir funcionando. También es uno de los pilares de Microsoft Azure Well-Architected Framework.
 
@@ -14,7 +14,7 @@ En algunos casos, el propio entorno en la nube cambiará automáticamente a otra
 
 ### Previsibilidad <a href="#predictability" id="predictability"></a>
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
 La predicción en la nube le permite avanzar con confianza. La previsibilidad se puede centrar en la previsibilidad del rendimiento o en la previsibilidad de costos. Tanto el rendimiento como la previsibilidad de costos están muy influenciados por Microsoft Azure Well-Architected Framework. Implemente una solución creada en torno a este marco y tenga una solución cuyo costo y rendimiento sean predecibles.
 

@@ -11,13 +11,13 @@ Con IaaS, básicamente está alquilando el hardware en un centro de datos en la 
 
 Anteriormente, aprendió cómo el modelo de responsabilidad compartida divide las tareas entre usted y el proveedor de nube. En el diagrama siguiente se muestran las capas de infraestructura individuales, como redes, almacenamiento, servidores y tiempo de ejecución. Resalta las capas en las que operas en cada modelo de servicio.
 
-<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Enfoque de responsabilidad en IaaS <a href="#responsibility-focus-in-iaas" id="responsibility-focus-in-iaas"></a>
 
 En IaaS, el proveedor de nube es responsable de la infraestructura física y la conectividad a Internet. La mayor parte de la pila de la carga de trabajo se administra, como los sistemas operativos, la aplicación de revisiones, la configuración y muchos controles de seguridad. Este modelo ofrece máxima flexibilidad y la mayor responsabilidad operativa.
 
-<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
 
 ### Escenarios <a href="#scenarios" id="scenarios"></a>
 

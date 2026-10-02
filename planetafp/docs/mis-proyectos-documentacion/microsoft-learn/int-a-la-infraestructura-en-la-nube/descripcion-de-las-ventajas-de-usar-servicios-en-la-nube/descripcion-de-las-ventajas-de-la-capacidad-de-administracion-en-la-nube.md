@@ -4,7 +4,7 @@ Una ventaja importante de la informática en la nube son las opciones de adminis
 
 ### Administración propia de la nube <a href="#management-of-the-cloud" id="management-of-the-cloud"></a>
 
-<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
 
 La administración propia de la nube trata sobre administrar los recursos en la nube. En la nube, puede hacer lo siguiente:
 
@@ -15,7 +15,7 @@ La administración propia de la nube trata sobre administrar los recursos en la 
 
 ### Herramientas de administración en la nube <a href="#management-in-the-cloud" id="management-in-the-cloud"></a>
 
-<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
 La herramientas de administración en la nube habla sobre cómo puede administrar el entorno de nube y los recursos. Puede administrarlos de las siguientes maneras:
 

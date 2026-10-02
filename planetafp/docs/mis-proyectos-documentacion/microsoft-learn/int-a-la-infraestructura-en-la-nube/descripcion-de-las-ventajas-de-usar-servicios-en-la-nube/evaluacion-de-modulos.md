@@ -34,4 +34,4 @@ La escalabilidad es la capacidad de adaptarse al aumento o disminución de carga
 
 **Respuesta correcta:** Reducción automática de recursos cuando se reduce la demanda
 
-<figure><img src="../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>

@@ -9,7 +9,7 @@ PaaS es ideal para proporcionar un entorno de desarrollo completo sin el molesto
 
 En PaaS, el proveedor de nube administra la infraestructura física y los componentes de la plataforma, como sistemas operativos, middleware y entornos de ejecución administrados. Usted se centra en su código de aplicación, sus datos y sus controles de acceso. En función de la configuración del servicio, se comparten algunas opciones de red y seguridad de aplicaciones.
 
-<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
 
 ### Escenarios <a href="#scenarios" id="scenarios"></a>
 

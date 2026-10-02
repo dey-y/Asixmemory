@@ -2,7 +2,7 @@
 
 Independientemente de si va a implementar la infraestructura como servicio o software como servicio, las características en la nube admiten la gobernanza y el cumplimiento.
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
 Las herramientas como las plantillas ayudan a garantizar que los recursos implementados cumplan los estándares técnicos y los requisitos normativos. A medida que cambian los estándares, puede actualizar los recursos a escala. La auditoría basada en la nube ayuda a marcar los recursos que no cumplen la línea base y proporciona estrategias de mitigación. En función del modelo operativo, las revisiones de software y las actualizaciones también se pueden aplicar automáticamente, lo que ayuda tanto con la gobernanza como con la seguridad.
 

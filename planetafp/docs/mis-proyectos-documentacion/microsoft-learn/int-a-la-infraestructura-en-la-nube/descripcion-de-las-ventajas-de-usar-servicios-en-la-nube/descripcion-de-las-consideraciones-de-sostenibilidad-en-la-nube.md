@@ -2,7 +2,7 @@
 
 La informática en la nube puede admitir objetivos de sostenibilidad cuando los equipos optimizan activamente cómo se implementan y usan los recursos.
 
-<figure><img src="../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
 
 ### ¿Por qué la nube puede mejorar la eficacia? <a href="#why-cloud-can-improve-efficiency" id="why-cloud-can-improve-efficiency"></a>
 

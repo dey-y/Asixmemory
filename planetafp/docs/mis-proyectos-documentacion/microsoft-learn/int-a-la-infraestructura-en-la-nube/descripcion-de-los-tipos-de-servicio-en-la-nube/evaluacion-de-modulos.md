@@ -22,4 +22,4 @@
 
 **Explicacion**Una aplicación de finanzas, contabilidad o gestión de gastos lista para usarse por los usuarios finales (como QuickBooks Online, SAP Concur o Microsoft Dynamics 365) es un producto de software completo alojado y gestionado por el proveedor, lo que se clasifica como SaaS.
 
-<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>

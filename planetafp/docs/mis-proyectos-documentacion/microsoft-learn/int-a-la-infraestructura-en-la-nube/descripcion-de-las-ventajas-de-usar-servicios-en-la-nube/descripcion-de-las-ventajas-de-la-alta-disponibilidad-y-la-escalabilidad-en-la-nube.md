@@ -4,7 +4,7 @@ Al compilar o implementar una aplicación en la nube, dos de las consideraciones
 
 ### Alta disponibilidad <a href="#high-availability" id="high-availability"></a>
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 Al implementar una aplicación, un servicio o cualquier recurso de TI, es importante que los recursos estén disponibles cuando sea necesario. La alta disponibilidad se centra en garantizar la máxima disponibilidad, independientemente de las interrupciones o eventos que puedan producirse.
 
@@ -12,7 +12,7 @@ Al diseñar la solución, debe tener en cuenta las garantías de disponibilidad 
 
 ### Escalabilidad <a href="#scalability" id="scalability"></a>
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 Otra ventaja importante de la informática en la nube es la escalabilidad de los recursos en la nube. La escalabilidad hace referencia a la capacidad de ajustar los recursos para satisfacer la demanda. Si de pronto experimenta un tráfico máximo y los sistemas están sobrecargados, la capacidad de escalar implica que puede agregar más recursos para controlar mejor la mayor demanda.
 
