@@ -70,16 +70,7 @@ Que es
 * Código de Colores (Pinout)
   * La única diferencia entre ambas normas es el intercambio de los **pares verde y naranja** (pines 1, 2, 3 y 6). Los pares azul y café se quedan exactamente igual.
 
-| Pin | Norma T568A      | NormaT568B       |
-| --- | ---------------- | ---------------- |
-| 1   | Blanco / Verde   | Blanco / Naranja |
-| 2   | Verde            | Naranja          |
-| 3   | Blanco / Naranja | Blanco / Verde   |
-| 4   | Azul             | Azul             |
-| 5   | Blanco / Azul    | Blanco / Azul    |
-| 6   | Naranja          | Verde            |
-| 7   | Blanco / Café    | Blanco / Café    |
-| 8   | Café             | Café             |
+<table data-search="false"><thead><tr><th>Pin</th><th>Norma T568A</th><th>NormaT568B</th></tr></thead><tbody><tr><td>1</td><td>Blanco / Verde</td><td>Blanco / Naranja</td></tr><tr><td>2</td><td>Verde</td><td>Naranja</td></tr><tr><td>3</td><td>Blanco / Naranja</td><td>Blanco / Verde</td></tr><tr><td>4</td><td>Azul</td><td>Azul</td></tr><tr><td>5</td><td>Blanco / Azul</td><td>Blanco / Azul</td></tr><tr><td>6</td><td>Naranja</td><td>Verde</td></tr><tr><td>7</td><td>Blanco / Café</td><td>Blanco / Café</td></tr><tr><td>8</td><td>Café</td><td>Café</td></tr></tbody></table>
 
 * Tipos de Cables según su Armado
 * **Cable Directo (Straight-through):**
