@@ -52,3 +52,8 @@
       * [Evaluación de módulos](mis-proyectos-documentacion/microsoft-learn/int-a-la-infraestructura-en-la-nube/descripcion-de-los-tipos-de-servicio-en-la-nube/evaluacion-de-modulos.md)
       * [Resumen](mis-proyectos-documentacion/microsoft-learn/int-a-la-infraestructura-en-la-nube/descripcion-de-los-tipos-de-servicio-en-la-nube/resumen.md)
 * [MC Cloud Server](mis-proyectos-documentacion/mc-cloud-server.md)
+* [ClassCalendar](mis-proyectos-documentacion/classcalendar/README.md)
+  * [Ideas planteadas](mis-proyectos-documentacion/classcalendar/ideas-planteadas.md)
+  * [Decisiones y descartes](mis-proyectos-documentacion/classcalendar/decisiones-y-descartes.md)
+  * [Idea final del proyecto](mis-proyectos-documentacion/classcalendar/idea-final-del-proyecto.md)
+  * [Fases del proyecto](mis-proyectos-documentacion/classcalendar/fases-del-proyecto.md)
