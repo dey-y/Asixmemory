@@ -20,7 +20,7 @@
 ## Gestión/Administración de base de datos
 
 * [Mis primeros diagramas E-R](gestion-administracion-de-base-de-datos/mis-primeros-diagramas-e-r.md)
-* [Ejercicios E-R 6 al 13](gestion-administracion-de-base-de-datos/ejercicios-e-r-6-al-13.md)
+* [Actividad 9](gestion-administracion-de-base-de-datos/actividad-9.md)
 
 ## Mis Proyectos/Documentacion
 
